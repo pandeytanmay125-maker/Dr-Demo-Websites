@@ -359,7 +359,7 @@
 }
 
 .doctor-img::before {
-  content: "👩‍⚕️";
+  content: "👨‍⚕️";
   font-size: 6rem;
   line-height: 1;
   filter: drop-shadow(2px 8px 12px rgba(35, 85, 110, 0.2));
@@ -488,3 +488,4 @@
   padding-top: 0.8rem;
   opacity: 0.6;
 }
+
